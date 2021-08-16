@@ -5,4 +5,4 @@
 #### Info about me
 📘Currently learning python
 
-💻I'm currently developing a cs:go cheat named mayhem.software
+💻Currently coding a cs:go cheat named mayhem.software
