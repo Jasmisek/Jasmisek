@@ -9,4 +9,6 @@ Skills: HTML5 / CSS3 / JS / PYTHON / C++
 
 #### Github Stats
 
-![Jasmisek's github stats](https://github-readme-stats.vercel.app/api?username=Jasmisek&count_private=true&theme=dark&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmisek)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasmisek&show_icons=true)  
