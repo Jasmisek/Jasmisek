@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Jasmisek.
-#### I am a web/cheat developer.
-I started coding for fun and then decided to start developing websites with HTML5 / CSS3 / JS / PY, scripts with PY / JS and cheats with C++.
+#### I am a back-end developer.
 
-Skills: HTML5 / CSS3 / JS / PYTHON / C++
+Skills: HTML5 / CSS3 / JS / PYTHON / C++ / C#
 
 - 🔭 I’m currently working on a CS:GO cheat.
 
