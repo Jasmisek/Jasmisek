@@ -3,7 +3,7 @@
 
 Skills: HTML5 / CSS3 / JS / PYTHON / C++ / C#
 
-- 🔭 I’m currently working on a CS:GO cheat.
+- 🔭 I’m currently working on a RUST/MC cheat!
 
 
 #### Github Stats
