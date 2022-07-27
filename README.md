@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Jasmisek
-- 👀 I’m interested in: Gamehacking & Webdevelopment
+- 👀 I’m interested in: Gamehacking & Web development
 - 🚀 Fluent in: ```.py```, ```.js```, ```.cpp```, ```.cs```
 - 📫 How to reach me: Jasmisek#9555
 
