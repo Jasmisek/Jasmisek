@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @Jasmisek
 - 👀 I’m interested in: Gamehacking & Web development
 - 🚀 Fluent in: ```.py```, ```.js```, ```.cpp```, ```.cs```
-- 📫 How to reach me: chechi#1337
+- 📫 How to reach me: jasmisek (on telegram and discord)
 
  ---
 
